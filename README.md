@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there! I'm Anirudh — a beginner full stack developer and creative soul.  <br>Currently wrapping up Harvard's CS50x, where I've explored C, Python, SQL, HTML/CSS/JS, and Flask.  <br>I enjoy building projects that blend logic with design — from web apps to visually engaging personal pages.  <br><br> Goal: Become an industry-ready full stack developer.  <br> Side passions: Sketching, Blender art, motorcycles, and exploring new places.  <br>🚀 Always learning, always creating.<br>
+#  About Me:
+ Hey there! I'm Anirudh — a beginner full stack developer and creative soul.  <br>Currently wrapping up Harvard's CS50x, where I've explored C, Python, SQL, HTML/CSS/JS, and Flask.  <br>I enjoy building projects that blend logic with design — from web apps to visually engaging personal pages.  <br><br> Goal: Become an industry-ready full stack developer.  <br> Side passions: Sketching, Blender art, motorcycles, and exploring new places.  <br> Always learning, always creating.<br>
 
 
 ## 🌐 Socials:
